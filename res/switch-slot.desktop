@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Switch Slot
+Comment=A Manager for Android A/B Slots
+Exec=switch_slot-run %f
+Terminal=false
+Type=Application
+Categories=GTK;Utility;
